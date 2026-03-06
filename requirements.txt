@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+whisper
+gtts
+langdetect
+redis
+sqlalchemy
+python-multipart
